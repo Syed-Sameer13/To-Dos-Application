@@ -24,8 +24,8 @@ This is a simple, yet effective, web-based todo list application designed to hel
 
 Here's a look at the app in action:
 
-![Screenshot of the Todos App's main page showing a list of tasks.](.\TodosAssets\Screenshot1.png)
-![Screenshot of the Todos App's main page showing a list of completed tasks.](.\TodosAssets\Screenshot2.png)
+![Screenshot of the Todos App's main page showing a list of tasks.](./TodosAssets/Screenshot1.png)
+![Screenshot of the Todos App's main page showing a list of completed tasks.](./TodosAssets/Screenshot2.png)
 ---
 
 ## Getting Started
